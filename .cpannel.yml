@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/vyktorph/public_html/git-demo/git-setup
+    - export DEPLOYPATH=/home/vyktorph/public_html/git-demo/git-setup/
     - /bin/cp * $DEPLOYPATH
